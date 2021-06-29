@@ -15,4 +15,8 @@
 ![나누기](https://user-images.githubusercontent.com/76527391/123814291-88b2aa00-d930-11eb-939c-f0e11068f63f.JPG)
 
 ## - Calculater2
+
 ## - StopWatch
+### 스톱워치 기능 (시작, 정지, 초기화, 랩 타임)
+![실행화면2(초기화)](https://user-images.githubusercontent.com/76527391/123816148-0925da80-d932-11eb-92f7-503af9c9d21a.JPG)
+![실행화면1](https://user-images.githubusercontent.com/76527391/123816154-09be7100-d932-11eb-851a-dee4e2d38bc7.JPG)
