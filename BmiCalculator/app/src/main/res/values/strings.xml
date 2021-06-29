@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+    <string name="result">결과가 출력되는 곳</string>
+    <string name="todo">TODO</string>
+</resources>
