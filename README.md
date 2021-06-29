@@ -21,6 +21,10 @@
 ![나누기](https://user-images.githubusercontent.com/76527391/123814291-88b2aa00-d930-11eb-939c-f0e11068f63f.JPG)
 
 ## - Calculater2
+### Calculator에 초기화 기능 추가
+![1](https://user-images.githubusercontent.com/76527391/123816966-b993de80-d932-11eb-9017-7ecfc0189509.JPG)
+![3](https://user-images.githubusercontent.com/76527391/123816979-bac50b80-d932-11eb-88de-ab6f57da1141.JPG)
+![4](https://user-images.githubusercontent.com/76527391/123816984-bb5da200-d932-11eb-8901-351f98c8fc7a.JPG)
 
 ## - StopWatch
 ### 스톱워치 기능 (시작, 정지, 초기화, 랩 타임)
