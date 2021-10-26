@@ -44,9 +44,7 @@
 <img src = "https://user-images.githubusercontent.com/76527391/138907289-105e7c5c-2bdb-4935-882c-4c56b61856a3.JPG" width="24%"/><img src = "https://user-images.githubusercontent.com/76527391/138907292-3032a1cb-c83f-4193-9891-eecc4c3ee920.JPG" width="24%"/><img src = "https://user-images.githubusercontent.com/76527391/138907296-e949d636-3221-4b6f-9dc4-3d333efea5ac.JPG" width="24%"/><img src = "https://user-images.githubusercontent.com/76527391/138907298-a4087c21-7c73-4d25-b0ac-47f4a710c7ff.JPG" width="24%"/>
 
 ## 9. Tilt
-<img src = "https://user-images.githubusercontent.com/76527391/138907396-634c42c0-9c71-49b9-84f0-a53c3f7769ca.JPG" width="33%"/>
-<img src = "https://user-images.githubusercontent.com/76527391/138907398-2536478f-2939-42ec-a0db-601d20454a2b.JPG" width="33%"/>
-<img src = "https://user-images.githubusercontent.com/76527391/138907399-f169427a-5249-4eaf-93f5-77d295ea1818.JPG" width="33%"/>
+<img src = "https://user-images.githubusercontent.com/76527391/138907396-634c42c0-9c71-49b9-84f0-a53c3f7769ca.JPG" width="33%"/><img src = "https://user-images.githubusercontent.com/76527391/138907398-2536478f-2939-42ec-a0db-601d20454a2b.JPG" width="33%"/><img src = "https://user-images.githubusercontent.com/76527391/138907399-f169427a-5249-4eaf-93f5-77d295ea1818.JPG" width="33%"/>
 
 ## 10. Lotto
 <img src = "" width="19%"/>
