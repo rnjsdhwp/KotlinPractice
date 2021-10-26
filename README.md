@@ -1,6 +1,7 @@
 ## README.md
 
 ## 안드로이드(코틀린)
+### BmiCalculater, Calculater, StopWatch, MyWebBrowser, Flash Light, GPS, Sensor Data, Shape, Tilt, Lotto, TodoList Realm
 
 ## - BmiCalculater
 ### 키와 몸무게를 이용한 BMI측정 (저체중~고도비만)
@@ -38,4 +39,8 @@
 ## - Shape
 <img src = "" width="19%"/>
 ## - Tilt
+<img src = "" width="19%"/>
+## - Lotto
+<img src = "" width="19%"/>
+## - TodoList Realm
 <img src = "" width="19%"/>
