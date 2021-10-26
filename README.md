@@ -48,6 +48,7 @@
 
 ## 10. Lotto
 <img src = "" width="19%"/>
+<img src = "" width="19%"/>
 
 ## 11. TodoList Realm
 <img src = "" width="19%"/>
