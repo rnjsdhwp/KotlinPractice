@@ -1,0 +1,75 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flashlight"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:5:5-34:19
+12        android:allowBackup="true"
+12-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\rnjsd\.gradle\caches\transforms-2\files-2.1\2d931fed1ebe7ffb72f36193941942d4\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:11:9-40
+22        <service
+22-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:12:9-15:47
+23            android:name="com.example.flashlight.TorchService"
+23-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:13:13-41
+24            android:enabled="true"
+24-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:14:13-35
+25            android:exported="true" />
+25-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:15:13-36
+26
+27        <receiver android:name="com.example.flashlight.TorchAppWidget" >
+27-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:17:9-25:20
+27-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:17:19-49
+28            <intent-filter>
+28-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:18:13-20:29
+29                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+29-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:19:17-84
+29-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:19:25-81
+30            </intent-filter>
+31
+32            <meta-data
+32-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:22:13-24:65
+33                android:name="android.appwidget.provider"
+33-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:23:17-58
+34                android:resource="@xml/torch_app_widget_info" />
+34-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:24:17-62
+35        </receiver>
+36
+37        <activity android:name="com.example.flashlight.MainActivity" >
+37-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:27:9-33:20
+37-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:27:19-47
+38            <intent-filter>
+38-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:28:13-32:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:29:17-69
+39-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:29:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:31:17-77
+41-->C:\Users\rnjsd\AndroidStudioProjects\Application\Flashlight\app\src\main\AndroidManifest.xml:31:27-74
+42            </intent-filter>
+43        </activity>
+44    </application>
+45
+46</manifest>

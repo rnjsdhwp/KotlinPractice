@@ -1,0 +1,4 @@
+#Wed Jun 30 16:50:29 KST 2021
+base.0=C\:\\Users\\rnjsd\\AndroidStudioProjects\\Application\\PaintEdit\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
