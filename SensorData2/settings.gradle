@@ -1,0 +1,2 @@
+rootProject.name='SensorData2'
+include ':app'
