@@ -47,8 +47,7 @@
 <img src = "https://user-images.githubusercontent.com/76527391/138907396-634c42c0-9c71-49b9-84f0-a53c3f7769ca.JPG" width="33%"/><img src = "https://user-images.githubusercontent.com/76527391/138907398-2536478f-2939-42ec-a0db-601d20454a2b.JPG" width="33%"/><img src = "https://user-images.githubusercontent.com/76527391/138907399-f169427a-5249-4eaf-93f5-77d295ea1818.JPG" width="33%"/>
 
 ## 10. Lotto
-<img src = "" width="19%"/>
-<img src = "" width="19%"/>
+<img src = "https://user-images.githubusercontent.com/76527391/139096156-5f860ab2-c1de-460e-a5f1-449031c4fa07.JPG" width="16%"/><img src = "https://user-images.githubusercontent.com/76527391/139096178-f2e09361-b217-4ac0-b090-b45526148499.JPG" width="16%"/><img src = "https://user-images.githubusercontent.com/76527391/139096181-82fe5291-161d-4c43-916d-d20cbc7a87b8.JPG" width="16%"/><img src = "https://user-images.githubusercontent.com/76527391/139096238-56f69376-fafb-4d85-9ec6-4ac57e276f99.JPG" width="16%"/><img src = "https://user-images.githubusercontent.com/76527391/139096245-6254e846-7d0a-4195-aa35-fc956ab240c6.JPG" width="16%"/><img src = "https://user-images.githubusercontent.com/76527391/139096249-c974281a-bf57-448a-92f6-427ac377fd92.JPG" width="16%"/>
 
 ## 11. TodoList Realm2
 ### Realm1도 2랑 같은 기능 (할 일만 추가)
